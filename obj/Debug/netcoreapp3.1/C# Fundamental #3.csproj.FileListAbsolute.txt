@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\C# Fundamental #3\bin\Debug\netcoreapp3.1\C# Fundamental #3.exe
+C:\Users\LENOVO\Documents\C# Fundamental #3\bin\Debug\netcoreapp3.1\C# Fundamental #3.deps.json
+C:\Users\LENOVO\Documents\C# Fundamental #3\bin\Debug\netcoreapp3.1\C# Fundamental #3.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Fundamental #3\bin\Debug\netcoreapp3.1\C# Fundamental #3.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\C# Fundamental #3\bin\Debug\netcoreapp3.1\C# Fundamental #3.dll
+C:\Users\LENOVO\Documents\C# Fundamental #3\bin\Debug\netcoreapp3.1\C# Fundamental #3.pdb
+C:\Users\LENOVO\Documents\C# Fundamental #3\obj\Debug\netcoreapp3.1\C# Fundamental #3.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\C# Fundamental #3\obj\Debug\netcoreapp3.1\C# Fundamental #3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Fundamental #3\obj\Debug\netcoreapp3.1\C# Fundamental #3.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Fundamental #3\obj\Debug\netcoreapp3.1\C# Fundamental #3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Fundamental #3\obj\Debug\netcoreapp3.1\C# Fundamental #3.dll
+C:\Users\LENOVO\Documents\C# Fundamental #3\obj\Debug\netcoreapp3.1\C# Fundamental #3.pdb
+C:\Users\LENOVO\Documents\C# Fundamental #3\obj\Debug\netcoreapp3.1\C# Fundamental #3.genruntimeconfig.cache
